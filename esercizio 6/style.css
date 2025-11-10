@@ -1,0 +1,15 @@
+title{
+    position: relative;
+    margin-bottom:20px ;
+    margin-left: 10px;
+    color: red;
+}
+p{
+    position: absolute;
+    margin: 30px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin-top: 200px;
+}

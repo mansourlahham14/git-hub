@@ -1,0 +1,30 @@
+div{
+    margin-bottom: 300px;
+}
+
+
+.uno{
+    background-color: bisque;
+    height: 200px;
+    width: 200px;
+    overflow: hidden;
+}
+.due{
+    background-color: rgb(47, 189, 118);
+    height: 200px;
+    width: 200px;
+    overflow: visible;
+}
+.tre{
+    background-color: rgb(76, 9, 46);
+    height: 200px;
+    width: 200px;
+    overflow: scroll;
+    color: white;
+}
+.quattro{
+    background-color: rgb(149, 96, 32);
+    height: 200px;
+    width: 200px;
+    overflow: auto;
+}

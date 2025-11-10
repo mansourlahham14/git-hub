@@ -1,0 +1,17 @@
+.uno{
+    background-color: #e85454;
+    display: block;
+    height: 200px;
+    width: 200px;
+}
+.due{
+    background-color: #9cc93b;
+    display: inline;
+    padding: 30px;
+}
+.tre{
+    background-color: #ae45b8;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+}

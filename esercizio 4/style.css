@@ -2,14 +2,17 @@
 background-color: aqua;
 width: 200px;
 height: 200px;
+padding: 20px;
 }
 .due{
 background-color: red;
 width: 200px;
 height: 200px;
+padding: 10px 15px;
 }
 .tre{
 background-color: rgb(87, 55, 216);
 width: 200px;
 height: 200px;
+margin: 5px 10px 15px;
 } 
