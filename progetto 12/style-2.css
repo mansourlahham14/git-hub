@@ -157,5 +157,10 @@ label:after {
 	border-top-right-radius: 50%;
 	border-bottom-right-radius: 50%;
 }
+ 
+.hearts{
+	background-image: url(./immagini-sito/trainer-1.jpg);
+  background-repeat: no-repeat;
+}
 
 
