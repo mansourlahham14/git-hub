@@ -1,8 +1,9 @@
+ @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Poppins', sans-serif;
+ font-family: "Oswald", sans-serif;
 }
 
 body {
@@ -158,8 +159,28 @@ label:after {
 	border-bottom-right-radius: 50%;
 }
  
-.hearts{
-	background-image: url(./immagini-sito/trainer-1.jpg);
+label.clubs {
+  background-image: url(./immagini-sito/trainer-1.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+label.hearts {
+  background-image: url(./immagini-sito/trainer-2.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+label.spades {
+  background-image: url(./immagini-sito/trainer-3.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+label.diamonds {
+  background-image: url(./immagini-sito/trainer-4.jpg);
+  background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
 }
 
